@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: /_pages/
+    url: /_pages/blog.md
   - title: "Project"
     url: /project/
   - title: "Quick-Start Guide"
