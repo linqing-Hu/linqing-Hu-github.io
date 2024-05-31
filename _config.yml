@@ -309,20 +309,6 @@ compress_html:
   ignore:
     envs: development
 
-# Navigation
-header:
-  nav:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-    - title: "Blog"
-      url: /blog/
-    - title: "Projects"
-      url: /projects/
-    - title: "Contact"
-      url: /contact/
-
 # Defaults
 defaults:
   # _posts
