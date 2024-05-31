@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"My Awesome Site"
-title_separator          : # "|"
-subtitle                 : #"v0.0" # site tagline that appears below site title in masthead
-name                     : #"Linqing"
+# title                    : #"My Awesome Site"
+# title_separator          : # "|"
+# subtitle                 : #"v0.0" # site tagline that appears below site title in masthead
+# name                     : #"Linqing"
 description              : "An amazing personal blog website."
 url                      : "https://linqing-Hu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
