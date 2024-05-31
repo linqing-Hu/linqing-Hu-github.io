@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Blog"
-    url: /_pages/blog.md
-  - title: "Project"
-    url: /project/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
   - title: "Contact"
     url: /contact/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
